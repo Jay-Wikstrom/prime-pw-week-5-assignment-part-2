@@ -3,3 +3,12 @@ header {
   color: white;
   text-align: center;
 }
+
+main {
+  background-color: #DCDCDC;
+}
+
+body {
+ background-image: url("record.png");
+ background-repeat: repeat;
+}
